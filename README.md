@@ -4,7 +4,8 @@
 ```markdown
 # Shaik Sharif — Personal Portfolio Website
 
-A modern, responsive personal portfolio website built with pure HTML, CSS, and JavaScript. Designed with a dark aesthetic, smooth animations, and a clean layout to showcase skills, experience, projects, and certifications.
+A modern, responsive personal portfolio website built with pure HTML, CSS, and JavaScript.
+Designed with a dark aesthetic, smooth animations, and a clean layout to showcase skills, experience, projects, and certifications.
 
 ---
 
